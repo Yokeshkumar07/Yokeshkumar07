@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yokeshkumar07
-- 👀 I’m interested in Embedded Systems and Software Engineering
-- 🌱 I’m currently learning Electrical and Electronics Engineering
-- 💞️ I’m looking to collaborate on various software and IoT projects.
+- 👀 I’m interested in QA automation and Software Engineering
+- 🌱 Currently works on IEEE 802.11 standards
+- 💞️ I’m looking to collaborate on various software and wireless projects.
 - 📫 yokeshmsd454@gmail.com
 
 <!---
